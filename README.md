@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jbjella
-- 👀 I’m interested in embedded systems engineering with embedded C and Python
+- 👀 I’m interested in embedded systems engineering with embedded C
 - 🌱 I’m currently learning Python and C#
 
 <!---
