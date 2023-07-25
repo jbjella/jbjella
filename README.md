@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @jbjella
-- 👀 I’m interested in embedded systems engineering with embedded C
-- 🌱 I’m currently learning Python and C#
-
-<!---
-jbjella/jbjella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Neat Links:
+[Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html)
+[Falstad Circuit Simulations](https://www.falstad.com/mathphysics.html)
